@@ -1,2 +1,2 @@
 # SecurityProject
-it is about an expression to be chacked if its valid or not 
+it is about an expression to be checked if its valid or not 
